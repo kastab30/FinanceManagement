@@ -1,5 +1,14 @@
 # FinanceManagement
 This web-based portal helps you manage your finances efficiently. Imagine lending money to many people and still relying on pen and paper for records. Why not have your own personal website for easy management? Here it is! Enjoy full data privacy, complete control, and say goodbye to expensive premium plans. Simplify your financial tracking today!
+## Authors
+
+- [@kastab30](https://www.github.com/kastab30)
+
+## Co-Authors
+
+- [@codebhomic](https://www.github.com/codebhomic)
+
+
 ## Installation
 
 Download ZIP Or Clone it.
@@ -53,3 +62,5 @@ You can access it by visiting ```localhost``` or ```127.0.0.1```
 ## Screenshots
 
 ![App Screenshot](https://github.com/kastab30/FinanceManagement/blob/163c8d8ab4b297948ca685a5951d666ba129dc1b/static/image/SignIn.png)
+
+Demo Video Link: https://youtu.be/V3Ap02onFCk
